@@ -1,1 +1,29 @@
+#main{
+  display: flex;
+  flex-direction: column;
+  margin: 30px 150px;
+  background-color: #DBDBD7;
+  justify-content: center;
+  align-items: center;
+}
+#img-div{
+  background-color: #B5B5B1;
 
+  width: auto;
+}
+#image{
+  max-width: 50rem;
+  width: auto;
+  display: block;
+}
+#img-caption{
+  margin: 0.5rem 1rem 1rem 1rem;
+  justify-content: center;
+}
+#tribute-info{
+  margin: 1rem 1rem 1rem 1rem;
+  border: 1rem 1rem 1rem 1rem;
+}
+#tribute-link{
+  margin: 1rem 1rem;
+}
